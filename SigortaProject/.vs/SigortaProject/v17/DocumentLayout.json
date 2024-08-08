@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SigortaProject\\SigortaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\entities\\customidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\entities\\customidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\entities\\customidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\entities\\customidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\services\\cartsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\services\\cartsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E8FE89-1906-4C44-B077-A0B81826E94E}|DataAccess\\DataAccess.csproj|c:\\sigortaproject\\sigortaproject\\dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E8FE89-1906-4C44-B077-A0B81826E94E}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCEB958-206B-4528-9FB9-B8C8B57DAE77}|Core\\Core.csproj|c:\\sigortaproject\\sigortaproject\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCEB958-206B-4528-9FB9-B8C8B57DAE77}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76178C7-37D5-4CEE-A167-4001B574A0E2}|Bussiness\\Bussiness.csproj|c:\\sigortaproject\\sigortaproject\\bussiness\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76178C7-37D5-4CEE-A167-4001B574A0E2}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76178C7-37D5-4CEE-A167-4001B574A0E2}|Bussiness\\Bussiness.csproj|c:\\sigortaproject\\sigortaproject\\bussiness\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76178C7-37D5-4CEE-A167-4001B574A0E2}|Bussiness\\Bussiness.csproj|solutionrelative:bussiness\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|c:\\sigortaproject\\sigortaproject\\webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EA926BC-E927-48E8-B6B8-A47632A1947E}|WebUI\\WebUI.csproj|solutionrelative:webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\Entities\\CustomIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "WebUI\\Entities\\CustomIdentityDbContext.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\Entities\\CustomIdentityDbContext.cs",
+              "RelativeToolTip": "WebUI\\Entities\\CustomIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:30:20.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA3wBwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:43:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAewCwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:38:02.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\Bussiness\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\Bussiness\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Bussiness\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:54:57.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\Bussiness\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Bussiness\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\Bussiness\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Bussiness\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:54:46.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebUI",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\WebUI.csproj",
+              "RelativeDocumentMoniker": "WebUI\\WebUI.csproj",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\WebUI.csproj",
+              "RelativeToolTip": "WebUI\\WebUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T12:30:54.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:34:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:54:44.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomIdentityUser.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\Entities\\CustomIdentityUser.cs",
+              "RelativeDocumentMoniker": "WebUI\\Entities\\CustomIdentityUser.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\Entities\\CustomIdentityUser.cs",
+              "RelativeToolTip": "WebUI\\Entities\\CustomIdentityUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:02:38.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartSessionService.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\Services\\CartSessionService.cs",
+              "RelativeDocumentMoniker": "WebUI\\Services\\CartSessionService.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\Services\\CartSessionService.cs",
+              "RelativeToolTip": "WebUI\\Services\\CartSessionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:44:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\WebUI\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebUI\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\WebUI\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "WebUI\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:00:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\SigortaProject\\SigortaProject\\DataAccess\\Concrete\\EntityFrameWork\\Contexts\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFrameWork\\Contexts\\NorthwindContext.cs",
+              "ToolTip": "C:\\SigortaProject\\SigortaProject\\DataAccess\\Concrete\\EntityFrameWork\\Contexts\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFrameWork\\Contexts\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:01:16.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

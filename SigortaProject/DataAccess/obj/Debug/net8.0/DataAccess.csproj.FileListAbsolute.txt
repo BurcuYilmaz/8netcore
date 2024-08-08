@@ -1,0 +1,17 @@
+C:\SigortaProject\SigortaProject\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\SigortaProject\SigortaProject\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\SigortaProject\SigortaProject\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\SigortaProject\SigortaProject\DataAccess\bin\Debug\net8.0\Core.dll
+C:\SigortaProject\SigortaProject\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\SigortaProject\SigortaProject\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\SigortaProject\SigortaProject\DataAccess\bin\Debug\net8.0\Core.pdb
+C:\SigortaProject\SigortaProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date

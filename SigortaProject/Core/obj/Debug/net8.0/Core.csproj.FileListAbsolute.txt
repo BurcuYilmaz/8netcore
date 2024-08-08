@@ -1,0 +1,12 @@
+C:\SigortaProject\SigortaProject\Core\bin\Debug\net8.0\Core.deps.json
+C:\SigortaProject\SigortaProject\Core\bin\Debug\net8.0\Core.dll
+C:\SigortaProject\SigortaProject\Core\bin\Debug\net8.0\Core.pdb
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\Core.dll
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\refint\Core.dll
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\Core.pdb
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\ref\Core.dll
+C:\SigortaProject\SigortaProject\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache

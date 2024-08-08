@@ -1,0 +1,15 @@
+C:\SigortaProject\SigortaProject\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\SigortaProject\SigortaProject\Entities\bin\Debug\net8.0\Entities.dll
+C:\SigortaProject\SigortaProject\Entities\bin\Debug\net8.0\Entities.pdb
+C:\SigortaProject\SigortaProject\Entities\bin\Debug\net8.0\Core.dll
+C:\SigortaProject\SigortaProject\Entities\bin\Debug\net8.0\Core.pdb
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.csproj.Up2Date
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.dll
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\Entities.pdb
+C:\SigortaProject\SigortaProject\Entities\obj\Debug\net8.0\ref\Entities.dll
